@@ -92,11 +92,11 @@ button.post-button.btn:active {
 }
 
 .tooltip .arrow::before {
-	border-left-color: #78c2ad;
+	border-left-color: #ffffff;
 }
 
 .tooltip-inner {
-	background: #78c2ad;
+	background: #ffffff;
 }
 
 /* Post border thicker */

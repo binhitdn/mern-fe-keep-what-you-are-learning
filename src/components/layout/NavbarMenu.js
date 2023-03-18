@@ -18,7 +18,7 @@ const NavbarMenu = () => {
 	const logout = () => logoutUser()
 
 	return (
-		<Navbar expand='lg' bg='primary' variant='dark' className='shadow'>
+		<Navbar expand='lg' bg='dark' variant='dark' className='shadow'>
 			<Navbar.Brand className='font-weight-bolder text-white'>
 				<img
 					src={learnItLogo}
